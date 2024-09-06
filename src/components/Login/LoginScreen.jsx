@@ -11,7 +11,7 @@ const LoginScreen = () => {
     <div
       className="w-full h-screen"
       style={{
-        backgroundImage: "url('src/components/Login/Background.jpg')",
+        backgroundImage: "url('/Background.jpg')",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
         backgroundPosition: "center",
